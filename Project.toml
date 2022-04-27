@@ -1,0 +1,13 @@
+name = "Exanple2"
+uuid = "6440bab5-8634-41e1-9d34-feca0f48b82c"
+authors = ["K Sainath"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
