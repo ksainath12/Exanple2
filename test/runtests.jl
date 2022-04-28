@@ -8,4 +8,5 @@ using Test
 @testset "Exanple2.jl" begin
     my_f(2, 1) == 7
     my_f(3,2) == 12 
+    my_f(3,2) == 13 
 end
